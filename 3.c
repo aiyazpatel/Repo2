@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-	int a = 113;
+	int a = 115;
 	printf("%d",-(~a));
 	return 0;
 }
