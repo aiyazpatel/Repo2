@@ -10,7 +10,7 @@ int main()
 	printf("different");
 	return 0;
 }
-
+int z=10;
 // after changing in branch 
 // now changing in master
 =======
