@@ -11,6 +11,8 @@ int main()
 	return 0;
 }
 int z=10;
+z=z-10;
+printf("%d",z);
 // after changing in branch 
 // now changing in master
 =======
